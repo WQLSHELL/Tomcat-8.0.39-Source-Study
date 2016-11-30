@@ -1,0 +1,6 @@
+.idea
+conf/Catalina
+logs/*
+target
+work/*
+Tomcat-8.0.39-Source.iml
